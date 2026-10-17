@@ -1,0 +1,11 @@
+SEAMLESS EARTH — ESPRESSO & SAND
+
+1. Extract this ZIP.
+2. Upload ALL extracted files directly into the root of your public GitHub repository IndiraDeviSiripurapu.github.io. Upload the files, not the ZIP or enclosing folder.
+3. Commit changes.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Wait for the Pages green check, then visit https://indiradevisiripurapu.github.io/
+
+To replace an earlier design, upload all files in this ZIP and let index.html and script.js replace the old versions. The stylesheets for this design are earth-studio.css, seamless.css, and explore-cards.css; upload both.
+
+Your original photo and CV are unchanged. Research, publications, and teaching content are preserved. iMediFood-AI is listed as Accepted per your update.
